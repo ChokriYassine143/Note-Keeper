@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Note-Keeper/static/js/main.a8138985.js",
+    "index.html": "/Note-Keeper/index.html",
+    "main.a8138985.js.map": "/Note-Keeper/static/js/main.a8138985.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a8138985.js"
+  ]
+}
